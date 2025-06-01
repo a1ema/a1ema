@@ -2,13 +2,20 @@
 ![](https://github-profile-trophy.vercel.app/?username=a1ema&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-![](/)
+![](/images/20150715_031714_-1431811231.gif)
+
+
 
 <details>
   <summary>Click to expand</summary>
   
   | Title | Badge |
 | --- | --- |
+| Arctic Code Vault Contributor | ![Arctic Code Vault Badge](https://github.com/a1ema/a1ema/blob/main/images/a_96571e155b487b42d03a6bbedc52df1c.gif?raw=true) |
+| Arctic Code Vault Contributor | ![Arctic Code Vault Badge](https://github.com/a1ema/a1ema/blob/main/images/iu-cute-ezgif.com-video-to-gif-converter.gif?raw=true) |
+| Arctic Code Vault Contributor | ![Arctic Code Vault Badge](https://github.com/a1ema/a1ema/blob/main/images/oie_142252485sLePzbO-ezgif.com-optimize.gif?raw=true) |
+
+| Arctic Code Vault Contributor | ![Arctic Code Vault Badge](https://github.com/a1ema/a1ema/blob/main/images/oie_142252485sLePzbO-ezgif.com-optimize.gif?raw=true) |
 | Arctic Code Vault Contributor | ![Arctic Code Vault Badge](https://github.com/a1ema/a1ema/blob/main/images/oie_142252485sLePzbO-ezgif.com-optimize.gif?raw=true) |
 
 </details>
