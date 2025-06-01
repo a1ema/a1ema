@@ -2,7 +2,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=a1ema&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-![](/images/20150715_031714_-1431811231.gif)
+<!-- ![](/images/20150715_031714_-1431811231.gif) -->
+
+![](/images/IU-Circle/a1ema.gif)
 
 
 
