@@ -4,12 +4,13 @@
 ---
 
 <details>
-	<summary>Click to expand</summary>
-	
-```js
-no text
-```
+  <summary>Click to expand</summary>
+
+  <img src="https://github.com/a1ema/a1ema/blob/main/images/2021-04-19-2022-06-09/badge-arctic-code-vault-small.png?raw=true" alt="Arctic Code Vault Badge" />
+
 </details>
+
+
 
 ---
 
